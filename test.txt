@@ -1,2 +1,9 @@
 /home/ubuntu/testgit
 Wed Jun 17 16:03:48 UTC 2026
+total 24
+drwxrwxr-x  3 ubuntu ubuntu 4096 Jun 17 16:33 .
+drwxr-x--- 22 ubuntu ubuntu 4096 Jun 17 16:21 ..
+drwxrwxr-x  7 ubuntu ubuntu 4096 Jun 17 16:22 .git
+-rw-rw-r--  1 ubuntu ubuntu   26 Jun 17 16:33 .gitignore
+-rwxrwxr-x  1 ubuntu ubuntu   19 Jun 17 16:04 hello.sh
+-rw-rw-r--  1 ubuntu ubuntu   50 Jun 17 16:03 test.txt
